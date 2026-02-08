@@ -1,0 +1,12 @@
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+#define MAX_OBSTACLES 64
+#define MAX_PROJECTILES 32
+#define KARE_BOYUT 600
+#define TRAIL_SIZE 10
+#define PROJECTILE_SPEED 8.0f
+#define TOWER_RANGE 100.0f
+#define FIRE_RATE 0.5f
+
+#endif // CONSTANTS_H
