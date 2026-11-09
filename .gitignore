@@ -1,0 +1,6 @@
+# Build outputs (made by build.sh / gcc)
+game
+sound_gen
+
+# Local save file, created by the game at runtime
+save.dat
